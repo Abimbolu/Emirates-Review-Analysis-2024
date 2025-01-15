@@ -4,7 +4,7 @@ Sentiment analysis and dashboard visualization of Emirates Airlines customer rev
 
 ---
 
-## 🔍 **Project Objectives**  
+## **Project Objectives**  
 1. Analyze customer reviews to extract meaningful insights.  
 2. Classify feedback into reasons like cabin crew, food, comfort, and customer service.  
 3. Visualize the results in an interactive Power BI dashboard.  
@@ -12,7 +12,7 @@ Sentiment analysis and dashboard visualization of Emirates Airlines customer rev
 
 ---
 
-## 🛠️ **Tools and Technologies**  
+##  **Tools and Technologies**  
 - **Python**: For web scraping, text pre-processing, and sentiment analysis.  
 - **Power BI**: For interactive data visualization.  
 - **Libraries Used**:  
@@ -22,7 +22,7 @@ Sentiment analysis and dashboard visualization of Emirates Airlines customer rev
 
 ---
 
-## 📊 **Key Insights**  
+## **Key Insights**  
 ### Sentiment Analysis:  
 - **Negative Reviews**: 65.7%  
 - **Positive Reviews**: 25.2%  
